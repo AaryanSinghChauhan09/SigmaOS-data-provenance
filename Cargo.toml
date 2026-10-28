@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_data_provenance"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_data_provenance"
+path = "src/lib.rs"
