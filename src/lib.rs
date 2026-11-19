@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-provenance: data provenance model.
 //!
 //! Real implementation: sources, timestamps, ownership, and validation.
